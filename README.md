@@ -5,7 +5,7 @@ VisualStudio MCP Bridge is a Visual Studio VSIX extension that exposes the curre
 The server binds only to `127.0.0.1` and requires a local bearer token.
 
 ## Features
-
+-  Compatible With Codex Claude code and other ai that support mcp
 - List running Visual Studio instances.
 - Read the current solution, projects, active document, and open documents.
 - Open files in Visual Studio.
